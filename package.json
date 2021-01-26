@@ -1,0 +1,29 @@
+{
+  "name": "nested-replace",
+  "version": "1.0.0",
+  "description": "Find a specified string or a regular expression (in a string, array or object value) and returns a new value where the specified string are replaced.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babak-Gholamzadeh/nested-replace.git"
+  },
+  "keywords": [
+    "object",
+    "array",
+    "string",
+    "replace",
+    "nested",
+    "regex",
+    "regular",
+    "expression"
+  ],
+  "author": "Babak Gholamzadeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Babak-Gholamzadeh/nested-replace/issues"
+  },
+  "homepage": "https://github.com/Babak-Gholamzadeh/nested-replace#readme"
+}
