@@ -1,4 +1,4 @@
-const realTypeOf = require('./realtypeof');
+const realTypeOf = require('realtypeof');
 
 const nestedReplace = (input, findValue, replaceValue) => {
   if (realTypeOf.isString(input))
