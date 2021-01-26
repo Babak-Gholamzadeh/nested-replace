@@ -22,7 +22,7 @@ const newStr = nestedReplace(str, 'is', 'XX');
 // -> newStr = 'thXX is a string value'
 
 // You can use Regex if you need (i.e. for replace all)
-const newStr = nestedReplace(str, /s/g, 'XX');
+const newStr = nestedReplace(str, /is/g, 'XX');
 // -> newStr = 'thXX XX a string value'
 
 // And you also use a callback as third parameter (like native replace())
